@@ -1,2 +1,4 @@
 This is a file
-THis is a line in the file
+THis is a line in the fil
+
+and now it's minee
